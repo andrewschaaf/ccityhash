@@ -1,6 +1,6 @@
 Whereas...
 
-- Google's `cityhash` is pretty awesome
+- [Google's `cityhash`](https://en.wikipedia.org/wiki/CityHash) is pretty awesome
 - Sometimes you want to use `cityhash` without C++ifying your project
 - `city.h` (not just `city.cc`) requires C++, so including it as a static library won't help
 
